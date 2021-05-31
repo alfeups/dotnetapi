@@ -1,0 +1,4 @@
+startTest.CategoriasControllerTest.Get_Categoria
+startTest.CategoriasControllerTest.Put_Categoria
+startTest.CategoriasControllerTest.Post_Categoria
+startTest.CategoriasControllerTest.Delete_Categoria
